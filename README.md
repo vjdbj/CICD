@@ -1,6 +1,1 @@
-# Jenkins-Docker-Project
-
-
-<h1> docker container run -itd --name mycont -p 9001:80  nginx <h1>
-
-#Never put /bin/bash in last for ip forwarding
+![sas](https://github.com/vjdbj/CICD/assets/83549768/763e9cc5-a735-40c9-b86b-41fbe77150e9)
